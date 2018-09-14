@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WV_Playlist_cmd", "WV_Playlist_cmd\WV_Playlist_cmd.csproj", "{490FB00F-7B20-4B42-A7B8-5F2AD304161C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490FB00F-7B20-4B42-A7B8-5F2AD304161C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490FB00F-7B20-4B42-A7B8-5F2AD304161C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490FB00F-7B20-4B42-A7B8-5F2AD304161C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490FB00F-7B20-4B42-A7B8-5F2AD304161C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DB0294-AACC-417F-A3AE-5727CB0E58D5}
+	EndGlobalSection
+EndGlobal
